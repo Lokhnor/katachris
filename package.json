@@ -1,0 +1,14 @@
+{
+  "name": "kataclysm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kataclysm.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
